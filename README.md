@@ -5,7 +5,7 @@
 
 **!! Requires sys-botbase, download it [here.](https://github.com/olliz0r/sys-botbase/releases/latest)**
 
-**!! This is does not have any kind of anti-cheat bypass!** (unless you know what you're doing 😏) Use this only on banned consoles or a properly isolated emuMMC!
+**!! Use this only on banned consoles or a properly isolated emuMMC! There is a high chance of getting banned if you use this in Splatoon 3!
 
 
 
