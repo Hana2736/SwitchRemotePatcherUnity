@@ -5,7 +5,7 @@
 
 **!! Requires sys-botbase, download it [here.](https://github.com/olliz0r/sys-botbase/releases/latest)**
 
-**!! Use this only on banned consoles or a properly isolated emuMMC! There is a high chance of getting banned if you use this in Splatoon 3!
+**!! Use this only on banned consoles or a properly isolated emuMMC! There is a high chance of getting banned if you use this in Splatoon 3!**
 
 
 
