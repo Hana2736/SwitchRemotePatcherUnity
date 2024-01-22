@@ -27,4 +27,4 @@ Works great with Splatoon 3 and patches from Coxxs at [this link](https://github
 
 
 
-*Ewan#6372*
+*Hana2736*
